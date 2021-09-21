@@ -1,0 +1,49 @@
+.innerbox{
+	padding:0 25px;
+	width:80%;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	box-sizing:border-box;	
+}
+
+.charttable{
+	border:1px dashed #AAAAAA;
+	border-radius:6px;
+	box-shadow:0 1px 3px rgba(0,0,0,0.2);
+	padding:10px;
+	display:inline-block;
+	text-align:	;	
+}
+.imgseat {
+    
+    border: medium none;
+    color: #808080;
+    cursor: pointer;
+    font-size: xx-small;
+    height: 40px;
+    margin-bottom: 0;
+    padding-bottom: 5px;
+    text-align: center;
+    width: 40px!important;
+}
+.seatreserved {
+    
+    border: medium none;
+    color: #808080;
+    cursor: pointer;
+    font-size: xx-small;
+    height: 40px;
+    margin-bottom: 0;
+    padding-bottom: 5px;
+    width: 40px!important;
+}
+.seatconfirmed {
+    border: medium none;
+    color: #808080;
+    cursor: pointer;
+    font-size: xx-small;
+    height: 40px;
+    margin-bottom: 0;
+    padding-bottom: 5px;
+    width: 40px!important;
+}
